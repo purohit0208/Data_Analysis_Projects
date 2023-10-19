@@ -27,3 +27,11 @@ This project describes data analysis of the Flight Price sales using different P
 The project's objectives were to improve customer experience by analyzing sales data and to increase revenue for the company. 
 The data for this project and Python code are available in .csv format and Jupyter Notebook respectively in the "Black_Friday_Sales_DA.zip" file. 
 The data analysis was done based on different variables and a concluding summary can be found for each variable at the end of the variables. 
+
+5) Hotel_Booking_EDA: 
+
+This project describes data analysis of 2 different hotels using different Python libraries. 
+The objectives of the project were to improve customer experience by analyzing sales data and by reducing cancellation rates, to increase revenue for the hotels. 
+The data for this project and Python code are available in .csv format and Jupyter Notebook respectively in the "Hotel_Booking_EDA.zip" file. 
+The data analysis was done based on different variables and a concluding summary can be found for each variable at the end of the variables. 
+
