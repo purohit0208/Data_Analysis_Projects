@@ -35,3 +35,8 @@ The objectives of the project were to improve customer experience by analyzing s
 The data for this project and Python code are available in .csv format and Jupyter Notebook respectively in the "Hotel_Booking_EDA.zip" file. 
 The data analysis was done based on different variables and a concluding summary can be found for each variable at the end of the variables. 
 
+6) Students_Exam_Scores_EDA: 
+
+This project describes data analysis of exam scores of students using different Python libraries. 
+The data for this project and Python code are available in .csv format and Jupyter Notebook respectively in the "Students_Exam_Scores_EDA.zip" file. 
+The data analysis was done based on different variables and a concluding summary can be found for each variable at the end of the variables. 
