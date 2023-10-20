@@ -40,3 +40,10 @@ The data analysis was done based on different variables and a concluding summary
 This project describes data analysis of exam scores of students using different Python libraries. 
 The data for this project and Python code are available in .csv format and Jupyter Notebook respectively in the "Students_Exam_Scores_EDA.zip" file. 
 The data analysis was done based on different variables and a concluding summary can be found for each variable at the end of the variables. 
+
+7) Sales_Analysis_EDA: 
+
+This project describes data analysis of sales data using different Python libraries. 
+The data for this project and Python code are available in .csv format and Jupyter Notebook respectively in the "Sales_Analysis_EDA.zip" file. 
+The data analysis was done based on different variables and a concluding summary can be found for each variable at the end of the variables. 
+
